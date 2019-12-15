@@ -70,3 +70,20 @@ font-size: 15px;
     font-family: 'Pacifico', cursive;
 
 }
+.card{
+
+    transition: 0.5s all ease-out;
+}
+.card:hover{
+background:#F0F8FF;
+color: black;
+transition: 0.5s all ease-out;
+}
+.rate{
+display: block;
+height: 40px;
+margin: 0 auto;
+
+}
+
+    
